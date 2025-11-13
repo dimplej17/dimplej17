@@ -6,20 +6,20 @@ I aim to combine my research background and technical training from [42 Heilbron
 ## Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" style="margin-right: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" style="margin-right: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="margin-right: 35px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" style="margin-right: 45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" style="margin-right: 45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="margin-right: 45px;" />
 </p>
 
 ## Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
 ## Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dimplej17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I aim to combine my research background and technical training from [42 Heilbron
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimplej17&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimplej17&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimplej17&layout=compact&theme=tokyonight&langs_count=6" />
 </div>
 
 <!--
