@@ -1,26 +1,22 @@
-## Dimple Janardhan
+# 🌱Dimple Janardhan
 
-# About Me
-
-Driven by curiosity and continuous learning, I am passionate about making an impact in the **health tech** space.  
+Driven by curiosity and a passion for continuous learning, I am committed to making a meaningful impact in the **health tech** sector.  
 I aim to combine my research background and technical training from [42 Heilbronn](https://www.42heilbronn.de/en/) to contribute to **innovative, user-centered solutions**.
-
----
 
 ## Programming Languages
 
-| R | C | C++ |
-|:-:|:-:|:-:|
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Learning:** Python
+## Learning
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimplej17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimplej17)
 
----
 
 ## My Stats
 
