@@ -1,7 +1,6 @@
 # 🌱 Dimple Janardhan
 
-Driven by curiosity and a passion for continuous learning, I am committed to making a meaningful impact in the **health tech** sector.  
-I aim to combine my research background and technical training from [42 Heilbronn](https://www.42heilbronn.de/en/) to contribute to **innovative, user-centered solutions**.
+Driven by curiosity and a passion for continuous learning, I am a Computer Science student at [42 Heilbronn](https://www.42heilbronn.de/en/) with a background in Health Science research. I am a problem-solver who loves digging into the 'how'—from building my own small cloud infrastructure to implementing low-level algorithms in C. I committed to bridging the gap between complex data and user-centered technical solutions.
 
 ## Programming Languages
 
