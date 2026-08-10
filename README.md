@@ -1,4 +1,4 @@
-# 🌱 Dimple Janardhan
+# Dimple Janardhan
 
 Driven by curiosity and a passion for continuous learning, I am a Computer Science student at [42 Heilbronn](https://www.42heilbronn.de/en/) with a background in Health Science research. I am a problem-solver who loves digging into the 'how', from building my own small cloud infrastructure to implementing low-level algorithms in C. I am interested in how we can use technical tools to make complex data more accessible and useful.
 
