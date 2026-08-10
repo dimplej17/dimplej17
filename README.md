@@ -22,6 +22,10 @@ Driven by curiosity and a passion for continuous learning, I am a Computer Scien
   </a>
 </p>
 
+
+<!--
+**dimplej17/dimplej17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## My Stats
 
 <div align="center">
@@ -31,9 +35,6 @@ Driven by curiosity and a passion for continuous learning, I am a Computer Scien
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=dimplej17&layout=compact&theme=tokyonight&langs_count=6" />
 
 </div>
-
-<!--
-**dimplej17/dimplej17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
