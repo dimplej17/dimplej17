@@ -25,8 +25,11 @@ Driven by curiosity and a passion for continuous learning, I am a Computer Scien
 ## My Stats
 
 <div align="center">
+
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimplej17&show_icons=true&theme=tokyonight" />
+
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimplej17&layout=compact&theme=tokyonight&langs_count=6" />
+
 </div>
 
 <!--
